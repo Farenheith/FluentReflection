@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin
+/obj
+/FluentReflection/bin
+/FluentReflection/obj
+/FluentReflection.Generator/bin
+/FluentReflection.Generator/obj
+/FluentReflection.Test/bin
+/FluentReflection.Test/obj
+/packages
